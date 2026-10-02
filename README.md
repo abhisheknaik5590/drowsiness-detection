@@ -4,11 +4,8 @@ A webcam-based fatigue monitor built with **OpenCV**, **MediaPipe Face Mesh**, a
 
 No model training is needed. Everything is computed from facial landmarks, so it runs smoothly on an ordinary laptop.
 
-<!-- Add your screenshots here, e.g.
 ![Dashboard](screenshots/dashboard.png)
 ![Charts](screenshots/charts.png)
--->
-
 ## Features
 
 | Feature | How it works |
